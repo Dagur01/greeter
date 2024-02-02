@@ -1,1 +1,1 @@
-java Main
+java -cp /Users/dagurgudnason/IdeaProjects/greeter/bin Main
